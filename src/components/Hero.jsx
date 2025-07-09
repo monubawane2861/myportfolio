@@ -25,14 +25,14 @@ const Hero = () => {
   return (
     <section className="min-h-screen relative overflow-hidden bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50">
       {/* Decorative Elements */}
-      <div className="absolute top-20 left-10 w-72 h-72 bg-indigo-300 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"></div>
+      <div className="absolute top-20 left-10 w-72 h-72   bg-indigo-300 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"></div>
       <div className="absolute top-40 right-10 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-2000"></div>
       <div className="absolute -bottom-8 left-40 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-4000"></div>
 
       {/* Animated Grid Pattern */}
       <div className="absolute inset-0 bg-grid-pattern opacity-[0.03] z-0"></div>
 
-      <div className="container mx-auto px-6 py-16 md:py-24 relative z-10">
+      <div className="container mx-auto px-6 py-16 md:py-24 relative mt-10 z-10">
         <div className="flex flex-col md:flex-row items-center justify-between gap-12 md:gap-8">
           <div
             className={`md:w-1/2 transition-all duration-1000 transform ${

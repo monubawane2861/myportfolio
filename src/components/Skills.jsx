@@ -419,7 +419,7 @@ const Skills = () => {
                 <path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zm5 2a2 2 0 11-4 0 2 2 0 014 0zm-8 8a5 5 0 00-10 0h10zm4 0a2 2 0 10-4 0h4zm7 0h-3a2 2 0 00-2-2 2 2 0 00-2 2h-3"></path>
               </svg>
             </div>
-            <h4 className="text-xl font-bold text-gray-800 mb-1">5+ Years</h4>
+            <h4 className="text-xl font-bold text-gray-800 mb-1">1 Years</h4>
             <p className="text-gray-600">Experience in Frontend</p>
           </motion.div>
 
@@ -442,7 +442,7 @@ const Skills = () => {
                 ></path>
               </svg>
             </div>
-            <h4 className="text-xl font-bold text-gray-800 mb-1">50+</h4>
+            <h4 className="text-xl font-bold text-gray-800 mb-1">10+</h4>
             <p className="text-gray-600">Projects Completed</p>
           </motion.div>
 
