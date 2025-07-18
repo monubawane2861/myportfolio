@@ -85,7 +85,7 @@ const Hero = () => {
             </h2>
 
             <p className="text-lg text-gray-600 mb-8 max-w-lg leading-relaxed">
-              Creative and detail-oriented Front-End Developer with hands-on
+              Creative and detail-oriented Web Developer with hands-on
               experience in building responsive and user-friendly web
               applications that engage users and help businesses grow.
             </p>

@@ -67,7 +67,7 @@ const About = () => {
                   <p className="leading-relaxed">
                     I'm a{" "}
                     <span className="text-indigo-600 font-medium">
-                      passionate Frontend Developer
+                      passionate Web Developer
                     </span>{" "}
                     with expertise in creating responsive and user-friendly web
                     applications. My focus is on delivering seamless user
@@ -190,7 +190,7 @@ const About = () => {
                   <h3 className="text-2xl font-bold text-white">
                     Monali Bawane
                   </h3>
-                  <p className="text-indigo-100">Frontend Developer</p>
+                  <p className="text-indigo-100">Web Developer</p>
                 </div>
               </div>
 
@@ -274,9 +274,7 @@ const About = () => {
                     1
                   </span>
                   <div className="ml-4">
-                    <p className="font-medium text-gray-800">
-                      Frontend Development
-                    </p>
+                    <p className="font-medium text-gray-800">Web Development</p>
                     <p className="text-gray-600 mt-1">
                       Build responsive web applications with React.js and
                       Next.js

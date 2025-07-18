@@ -139,7 +139,7 @@ const Navbar = ({ activeSection, scrollToSection }) => {
                   transition: "transform 0.3s ease-out",
                 }}
               >
-                Frontend Developer
+                Web Developer
               </span>
             </div>
           </div>

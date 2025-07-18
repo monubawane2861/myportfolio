@@ -420,7 +420,7 @@ const Skills = () => {
               </svg>
             </div>
             <h4 className="text-xl font-bold text-gray-800 mb-1">1 Years</h4>
-            <p className="text-gray-600">Experience in Frontend</p>
+            <p className="text-gray-600">Experience in Web Develpment</p>
           </motion.div>
 
           <motion.div
@@ -497,7 +497,7 @@ const Skills = () => {
                 </div>
                 <div className="text-left">
                   <p className="font-bold text-white">Monali Bawane</p>
-                  <p className="text-indigo-200 text-sm">Frontend Developer</p>
+                  <p className="text-indigo-200 text-sm">Web Developer</p>
                 </div>
               </div>
             </div>

@@ -21,7 +21,7 @@ const Footer = () => {
             </h2>
             <p className="text-gray-300 mt-2 flex items-center">
               <FaLaptopCode className="mr-2" />
-              Frontend Developer passionate about creating beautiful experiences
+              Web Developer passionate about creating beautiful experiences
             </p>
           </div>
 

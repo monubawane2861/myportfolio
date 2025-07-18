@@ -3,7 +3,7 @@ import { Briefcase, Calendar, Building, Check } from "lucide-react";
 
 const experiences = [
   {
-    role: "Frontend Developer Intern",
+    role: "Web Developer Intern",
     company: "Kartik Engitech Pvt.Ltd",
     duration: "Dec 2024 - Mar 2025",
     description: [
