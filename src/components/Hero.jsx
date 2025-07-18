@@ -42,7 +42,7 @@ const Hero = () => {
             }`}
           >
             <div className="inline-block px-3 py-1 rounded-full bg-indigo-100 text-indigo-800 text-sm font-medium mb-6 shadow-sm">
-              Frontend Developer
+              Web Developer
             </div>
 
             <h1 className="text-5xl md:text-6xl font-extrabold mb-6 leading-tight">
