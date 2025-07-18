@@ -36,7 +36,7 @@ const Contact = () => {
       const whatsappMessage = `New message from ${formData.name} (${formData.email}): ${formData.message}`;
       const encodedWhatsAppMessage = encodeURIComponent(whatsappMessage);
       window.open(
-        `https://wa.me/918087727262?text=${encodedWhatsAppMessage}`,
+        `https://wa.me/919226409449?text=${encodedWhatsAppMessage}`,
         "_blank"
       );
 
@@ -112,7 +112,7 @@ const Contact = () => {
                     rel="noopener noreferrer"
                     className="text-white hover:underline text-lg"
                   >
-                    +91 8087727262
+                    +91 9226409449
                   </a>
                 </div>
               </div>

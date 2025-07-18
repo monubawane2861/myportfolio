@@ -184,7 +184,7 @@ const Hero = () => {
               <div className="absolute top-0 -right-4 bg-gradient-to-r from-indigo-500 to-purple-600 p-1 rounded-lg shadow-lg z-20">
                 <div className="bg-white px-4 py-3 rounded-md">
                   <div className="text-indigo-600 font-bold text-lg">
-                    2+ Years
+                    1 Years
                   </div>
                   <div className="text-gray-600 text-sm">Experience</div>
                 </div>
