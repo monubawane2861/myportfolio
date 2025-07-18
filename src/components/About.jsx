@@ -13,7 +13,7 @@ import {
   HiOutlineDeviceMobile,
   HiOutlineLightBulb,
 } from "react-icons/hi";
-import ResumeFile from "../assets/resum.pdf"; // Import your resume file here
+// import ResumeFile from "../assets/resum.pdf"; // Import your resume file here
 
 const About = () => {
   // Progress bar data
@@ -253,7 +253,8 @@ const About = () => {
 
                 <div className="mt-8">
                   <a
-                    href={ResumeFile}
+                    // href={ResumeFile}
+                    href=""
                     download="Monali_Bawane_Resume.pdf"
                     className="w-full py-3 px-4 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-xl hover:shadow-lg shadow-indigo-200 transition-all duration-300 flex items-center justify-center font-medium"
                   >

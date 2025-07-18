@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaArrowRight } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { FiDownload } from "react-icons/fi";
 import Img from "../assets/mona pic.jpg";
-import ResumeFile from "../assets/resum.pdf";
+// import ResumeFile from "../assets/resum.pdf";
 
 const Hero = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -99,7 +99,8 @@ const Hero = () => {
                 <FaArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
               </a>
               <a
-                href={ResumeFile}
+                // href={ResumeFile}
+                href=""
                 download="Monali_Bawane_Resume.pdf"
                 className="px-6 py-3 border-2 border-indigo-600 text-indigo-600 rounded-full hover:bg-indigo-50 transition duration-300 flex items-center"
               >
